@@ -49,7 +49,7 @@ We came together to build practical IT solutions with real business impact:
 | | Name | Role | GitHub |
 |---|------|------|--------|
 | 🔧 | **Vitaliy Prymak** | SRE / DevOps Engineer | [@vprymak](https://github.com/vprymak) |
-| 🚀 | **Mykyta Diadiunov** | Fullstack Developer | — |
+| 🚀 | **Mykyta Diadiunov** | Fullstack Developer | — [@m.diadiunov](https://github.com/MykytaDiadiunov) |
 | 💻 | **Serhiy Kolodiazhnyi** | Backend Developer | [@serhio-sys](https://github.com/serhio-sys) |
 
 ---
