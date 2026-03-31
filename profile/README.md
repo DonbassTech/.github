@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ukraine-Donbas%20roots-0057B7?style=flat-square" alt="Donbas roots">
-  <img src="https://img.shields.io/badge/Founded-2024-purple?style=flat-square" alt="Founded">
+  <img src="https://img.shields.io/badge/Founded-2025-purple?style=flat-square" alt="Founded">
   <img src="https://img.shields.io/badge/Team-3_Founders-green?style=flat-square" alt="Team">
 </p>
 
