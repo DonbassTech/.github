@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DonbassTech/.github/main/assets/donbass-tech.png" alt="DonbassTech" width="420"/>
+  <img src="https://raw.githubusercontent.com/VisenTechnology/.github/main/assets/donbass-tech.png" alt="DonbassTech" width="420"/>
 </p>
 
 <h1 align="center">DonbassTech</h1>
@@ -9,15 +9,9 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://img.shields.io/badge/Ukraine-Donbas%20roots-0057B7?style=flat-square" alt="Donbas roots">
   <img src="https://img.shields.io/badge/Founded-2024-purple?style=flat-square" alt="Founded">
   <img src="https://img.shields.io/badge/Team-3_Founders-green?style=flat-square" alt="Team">
-=======
-  <img src="https://img.shields.io/badge/Kraków-Poland-blue?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/Founded-2025-purple?style=flat-square" alt="Founded">
-  <img src="https://img.shields.io/badge/Team-3_Engineers-green?style=flat-square" alt="Team">
->>>>>>> df90ab9a74e7bd9793634a756433f61892498575
 </p>
 
 ---
@@ -56,13 +50,11 @@ We came together to build practical IT solutions with real business impact:
 |---|------|------|--------|
 | 🔧 | **Vitaliy Prymak** | SRE / DevOps Engineer | [@vprymak](https://github.com/vprymak) |
 | 🚀 | **Mykyta Diadiunov** | Fullstack Developer | — |
-<<<<<<< HEAD
 | 💻 | **Serhiy Kolodiazhnyi** | Backend Developer | [@serhio-sys](https://github.com/serhio-sys) |
-=======
 
 ---
 
-### Tech We Work With
+## Tech We Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
@@ -80,7 +72,6 @@ We came together to build practical IT solutions with real business impact:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
 </p>
->>>>>>> df90ab9a74e7bd9793634a756433f61892498575
 
 ---
 
