@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VisenTechnology/.github/main/assets/donbass-tech.png" alt="DonbassTech" width="420"/>
+  <img src="https://raw.githubusercontent.com/DonbassTech/.github/main/assets/donbax-tech.png" alt="DonbaXTech" width="420"/>
 </p>
 
-<h1 align="center">DonbassTech</h1>
+<h1 align="center">DonbaXTech</h1>
 
 <p align="center">
   <strong>Custom software, DevOps platforms, automation, and product engineering for modern businesses.</strong>
@@ -18,20 +18,17 @@
 
 ## Story
 
-**DonbassTech** was founded by **Vitaliy Prymak**, **Mykyta Diadiunov**, and **Serhiy Kolodiazhnyi**.
+**DonbaXTech** was founded by **Vitaliy Prymak**, **Mykyta Diadiunov**, and **Serhiy Kolodiazhnyi**.
 
-Our company name is a conscious tribute to the strength, dignity, and resilience of Ukraine. It reflects our deep respect for the soldiers of the Armed Forces of Ukraine, who fight every day for Ukrainian independence and defend our sovereignty.
+We are a team of engineers that builds business solutions end-to-end: from product discovery and architecture to development, deployment, hosting, and support.
 
-For us, Donbas is not only a symbol of endurance - it is also a beautiful and culturally rich Ukrainian region. Through this name, we honor both the people defending our country and the heritage we are proud to carry forward.
-
-One of our founders, **Vitaliy Prymak**, is a veteran who served in Donbas for almost two years, including infantry service. That journey shaped our core values: responsibility, discipline, and focus on results that truly matter.
-
-We came together to build practical IT solutions with real business impact:
+Our team delivers complete turnkey execution:
 
 - **Custom software development** for real product and operational goals
 - **DevOps tools and infrastructure automation** for reliable delivery at scale
 - **Telegram bots and integrations** for workflow acceleration
 - **Business platforms** including web apps, admin systems, and client portals
+- **Cloud and hosting operations** including CI/CD, observability, and production support
 - **Open-source engineering** where shared tools can help the wider community
 
 ---
