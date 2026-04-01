@@ -47,7 +47,7 @@ Our team delivers complete turnkey execution:
 |---|------|------|--------|
 | 🔧 | **Vitaliy Prymak** | SRE / DevOps Engineer | [@vprymak](https://github.com/vprymak) |
 | 🚀 | **Mykyta Diadiunov** | Fullstack Developer | [@m.diadiunov](https://github.com/MykytaDiadiunov) |
-| 💻 | **Serhiy Kolodiazhnyi** | Backend Developer | [@serhio-sys](https://github.com/serhio-sys) |
+| 💻 | **Serhiy Kolodiazhnyi** | Fullstack Developer | [@serhio-sys](https://github.com/serhio-sys) |
 
 ---
 
